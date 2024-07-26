@@ -5,7 +5,6 @@
 - 🤔 I’m interested in **software engineering**, **mixed reality**, and **game development**.
 - ⚡ Fun fact: I love playing video games and really looking forward to have experience on VisionOS.
 
----
 
 ## Skills
 
@@ -14,10 +13,9 @@
 - **Tools & Technologies:** Git, SwiftUI, IoT
 - **Database Management:** MySQL, Firebase, SwiftData
 
----
 
 ## Feel free to reach out if you'd like to collaborate on a project, ask questions, or just chat about tech!
 Thanks for visiting my profile!
 
-
+---
 
