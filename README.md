@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**AgesDT/AgesDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ages 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Apple Ecosystem Development** and **Machine Learning**.
+- 🤔 I’m interested in **software engineering**, **mixed reality**, and **game development**.
+- ⚡ Fun fact: I love playing video games and really looking forward to have experience on VisionOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- **Programming Languages:** Swift, C/C++, Java, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools & Technologies:** Git, SwiftUI, IoT
+- **Database Management:** MySQL, Firebase, SwiftData
+
+---
+
+## Feel free to reach out if you'd like to collaborate on a project, ask questions, or just chat about tech!
+Thanks for visiting my profile!
+
+
+
