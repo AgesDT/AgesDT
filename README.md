@@ -11,7 +11,7 @@ A Computer Science student at BINUS University
 - **Mobile Development:** Swift, Java
 - **Game Development:** Unity, C#
 - **Frameworks:** SwiftUI, Combine, ARKit, GameplayKit
-- **Tools & Technologies:** Git, IoT, AR, Unity
+- **Tools & Technologies:** Git, IoT, AR, Unity, Xcode, Android Studio
 - **Database Management:** MySQL, Firebase, SwiftData
 - **Web Development:** HTML, CSS, JavaScript, Python
 
