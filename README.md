@@ -1,5 +1,6 @@
 
 # Hi there, I'm Ages 👋
+## A Computer Science student at BINUS University, interested in being IOS Developer and Game Developer. Currently learning Apple Environments in Apple Developer Academy.
 
 - 🌱 I’m currently learning **Apple Ecosystem Development** and **Machine Learning**.
 - 🤔 I’m interested in **software engineering**, **mixed reality**, and **game development**.
